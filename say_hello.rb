@@ -1,4 +1,4 @@
-dev say_hello(name)
+dev say_hello(name = "Ruby Programmer!")
 puts ""
 end
 
